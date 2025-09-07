@@ -3,5 +3,5 @@
 </script>
 
 <template>
-  <div>首页</div>
+  <div>首页: 当前分支demo1</div>
 </template>
