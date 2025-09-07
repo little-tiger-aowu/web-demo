@@ -1,0 +1,36 @@
+{
+  "name": "ztm-pc",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@react-three/xr": "^6.6.2",
+    "@vueuse/core": "^12.4.0",
+    "axios": "1.11.0",
+    "element-plus": "^2.9.3",
+    "lodash": "^4.17.21",
+    "pinia": "^2.3.0",
+    "pinia-plugin-persistedstate": "^4.2.0",
+    "qs": "^6.14.0",
+    "three": "^0.173.0",
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "@iconify-json/ep": "^1.2.2",
+    "@iconify-json/logos": "^1.2.4",
+    "@unocss/preset-icons": "^65.4.2",
+    "@vitejs/plugin-vue": "^5.2.1",
+    "sass": "^1.83.4",
+    "unocss": "^65.4.2",
+    "unplugin-auto-import": "^19.0.0",
+    "unplugin-vue-components": "^28.0.0",
+    "vite": "6.3.4",
+    "vite-plugin-vue-devtools": "^7.6.8"
+  }
+}
